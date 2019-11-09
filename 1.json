@@ -1,0 +1,32 @@
+function biodata();
+{
+    "name"           : "Luhur Pangestu Aji", //string nama
+    "age"            : "24", //string age
+    "address"        : "Jl.H.Dimun Raya No.206 Cilodong Kota Depok",
+    "hobbies"        : ["Web Design", "Touring","Gaming", "Problem Solved"], //Array,
+    "is_married"     : false, //Boolean,
+    "school"         : [
+                        {
+                          "high_school"   : "SMKN 1 TANGERANG SELATAN",
+                          "years_in"      : "2010",
+                          "years_out"     : "2013",
+                                                  },
+                         {
+                          "university"    : "STMIK NUSA MANDIRI",
+                          "years_in"      : "2015",
+                          "years_out"     : "2020",
+                                                   },
+                                                      ], // Array Object
+    "skills"           : 
+                        [
+                          {
+                            "name_skill"   : "Web Development",
+                            "level"        : "beginner",
+                                                        },
+                          {
+                            "name_skill"   : "Photoshop Design",
+                            "level"        :  "Advanced",
+                                                        },
+                                                            ], //Array Object
+    "interested_in_coding"  : true, //Bolean
+}

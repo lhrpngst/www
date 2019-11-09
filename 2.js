@@ -1,0 +1,3 @@
+function validasi();
+
+	var username : 
